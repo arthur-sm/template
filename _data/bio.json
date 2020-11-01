@@ -1,39 +1,40 @@
+
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Arthur S. Miguel",
+    "label": "Estudante",
+    "picture": "https://arthur-sm.github.io/images/avatar.png",
+    "email": "arthursm40@gmail.com",
+    "phone": "",
+    "website": "https://arthur-sm.github.io",
+    "summary": "Estudante de Sistemas de Informação no IFES Campus Serra. Entusiasta de tecnologia e jogos digitais.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "BRA",
+      "region": "Espírito Santo"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ArthurSM",
+        "url": "http://github.com/arthur-sm"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Arthur Santos Miguel",
+        "url": "https://www.linkedin.com/in/arthur-s-907704122/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": ""
       }
     ]
   },
