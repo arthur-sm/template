@@ -7,7 +7,7 @@
     "email": "arthursm40@gmail.com",
     "phone": "",
     "website": "https://arthur-sm.github.io",
-    "summary": "Estudante de Sistemas de Informação no IFES Campus Serra. Entusiasta de tecnologia e jogos digitais.",
+    "summary": "Técnico em Automação Industrial e estudante de Sistemas de Informação. Fã de literatura, música, jogos e provavelmente outras coisas também.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -40,54 +40,52 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Desenvolvimento de Software",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Backend",
+        "Ferramentas"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Sistemas Operacionais",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Science",
       "keywords": [
+        "Big Data",
+        "Sistemas de Apoio de Decisão"
       ]
     }
   ],
-  "skills": [
+  "Habilidades": [
     {
-      "name": "Languages and Frameworks",
-      "level": "",
+      "name": "Linguagens de Programação",
+      "level": "10",
       "keywords": [
         "C",
-        "C++",
-        "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Ferramentas/SO",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "VisualStudio"
       ]
     }
   ],
-  "education": [
+  "Educação": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Instituto Federal do Espírito Santo - Campus Linhares",
+      "area": "Automação Industrial",
+      "studyType": "Curso Técnico",
+      "startDate": "2016-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
