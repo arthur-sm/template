@@ -11,7 +11,7 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Linhares",
       "countryCode": "BRA",
       "region": "Espírito Santo"
     },
@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "Habilidades": [
+  "skills": [
     {
       "name": "Linguagens de Programação",
       "level": "10",
@@ -80,7 +80,7 @@
       ]
     }
   ],
-  "Educação": [
+  "education": [
     {
       "institution": "Instituto Federal do Espírito Santo - Campus Linhares",
       "area": "Automação Industrial",
@@ -94,14 +94,14 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Laguna Motos",
+      "position": "Auxíliar Administrativo (menor aprendiz)",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2014-05-01",
+      "endDate": "2015-03-15",
+      "summary": "Manutenção do setor de peças",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
+        "Fornecer peças requisitadas, realizar inventário e controlar estoque (entrada/saída de produtos)",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
