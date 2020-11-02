@@ -86,9 +86,14 @@
       "area": "Automação Industrial",
       "studyType": "Curso Técnico",
       "startDate": "2016-01-01",
-      "endDate": "Present",
+      "endDate": "2019-12-15",
       "gpa": "",
       "courses": [
+        "Sistemas Digitais",
+        "Comandos Elétricos",
+        "Instrumentação Industrial",
+        "Análise de Circuitos de Corrente Contínua",
+        "Análise de Circuitos de Corrente Alternada"
       ]
     }
   ],
@@ -102,67 +107,34 @@
       "summary": "Manutenção do setor de peças",
       "highlights": [
         "Fornecer peças requisitadas, realizar inventário e controlar estoque (entrada/saída de produtos)",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Configure Software",
+      "position": "Estágio como Técnico de Suporte",
+      "website": "https://www.configure.com.br/",
+      "startDate": "2019-02-11",
+      "endDate": "2019-05-15",
+      "summary": "Prestar suporte aos clientes quanto ao software da empresa e suas dependências",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Responder dúvidas, auxíliar na configuração e utilização do software",
+        "Procurar e reportar bugs e sugestões",
+        "Auxiliar clientes com problemas de informática que estejam afetando a utilização do software (Problemas no SO, internet, hardware, etc...)"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
