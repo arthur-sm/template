@@ -89,11 +89,20 @@
       "endDate": "2019-12-15",
       "gpa": "",
       "courses": [
-        "Sistemas Digitais",
-        "Comandos Elétricos",
+        "Sistemas Digitais"
         "Instrumentação Industrial",
-        "Análise de Circuitos de Corrente Contínua",
-        "Análise de Circuitos de Corrente Alternada"
+        "Análise de Circuitos de Corrente Contínua"
+      ]
+      "institution": "Instituto Federal do Espírito Santo - Campus Serra",
+      "area": "Sistemas de Informação",
+      "studyType": "Curso Superior",
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "Introdução em Sistemas de Informação",
+        "Programação",
+        "Introdução ao computador"
       ]
     }
   ],
