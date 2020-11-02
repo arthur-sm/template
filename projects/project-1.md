@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+draft: true #Mantendo eles como rascunhos por enquanto, posso usar como base depois
 image: images/micromouse.jpg
 title: Micromouse
 permalink: projects/micromouse

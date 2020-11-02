@@ -7,7 +7,7 @@
     "email": "arthursm40@gmail.com",
     "phone": "",
     "website": "https://arthur-sm.github.io",
-    "summary": "Técnico em Automação Industrial e estudante de Sistemas de Informação. Fã de literatura, música, jogos e provavelmente outras coisas também.",
+    "summary": "Técnico em Automação Industrial, estudante de Sistemas de Informação e provavelmente outras coisas também.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -42,8 +42,7 @@
     {
       "name": "Desenvolvimento de Software",
       "keywords": [
-        "Backend",
-        "Ferramentas"
+        "Backend"
       ]
     },
     {
@@ -70,13 +69,12 @@
       ]
     },
     {
-      "name": "Ferramentas/SO",
+      "name": "Ferramentas",
       "level": "",
       "keywords": [
-        "Linux",
-        "Windows",
         "Git/GitHub",
-        "VisualStudio"
+        "VisualStudio",
+        "LibreOffice"
       ]
     }
   ],
@@ -92,7 +90,9 @@
         "Sistemas Digitais",
         "Instrumentação Industrial",
         "Análise de Circuitos de Corrente Contínua"
-      ],
+      ]
+    },
+    {
       "institution": "Instituto Federal do Espírito Santo - Campus Serra",
       "area": "Sistemas de Informação",
       "studyType": "Curso Superior",
@@ -115,7 +115,7 @@
       "endDate": "2015-03-15",
       "summary": "Manutenção do setor de peças",
       "highlights": [
-        "Fornecer peças requisitadas, realizar inventário e controlar estoque (entrada/saída de produtos)",
+        "Fornecer peças requisitadas, realizar inventário e controlar estoque (entrada/saída de produtos)"
       ]
     },
     {

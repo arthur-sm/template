@@ -1,25 +1,10 @@
----
-layout: project
-type: project
-draft: true 
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-# All dates must be YYYY-MM-DD format!
-date: 2014-04-12
-labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
----
+I"<p><img class="ui image" src="/images/cotton-header.png" /></p>
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<p>Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard’s Game in <a href="http://landoflisp.com/">Conrad Barski’s Land of Lisp</a>. Slightly more interesting and convoluted! (It is not that scary.)</p>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+<p>To give you a flavor of the game, here is an excerpt from one run:</p>
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
+<hr />
 
 <pre>
 You open your eyes, and you are greeted by an unfamiliar ceiling.
@@ -28,10 +13,10 @@ dark except for the stream of light coming from a crack on the only boarded
 window in the room. You try to peek through the crack, but you cannot see
 anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
+&lt;--------------------help------------------------&gt;
 Enter quit or one of the following commands -
 Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+&lt;------------------------------------------------&gt;
 
 look
 The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
@@ -56,7 +41,8 @@ The corridor is lit with the candle. It is so long that you cannot see to the en
  from here. There is a door going south from here.
 </pre>
 
-<hr>
+<hr />
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+<p>Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a></p>
 
+:ET
