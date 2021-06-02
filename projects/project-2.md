@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-draft: true
+draft: true #mantendo como rascunho para usar de exemplo depois
 image: images/vacay-square.png
 title: Vacay
 permalink: projects/vacay

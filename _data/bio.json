@@ -25,16 +25,6 @@
         "network": "linkedin",
         "username": "Arthur Santos Miguel",
         "url": "https://www.linkedin.com/in/arthur-s-907704122/"
-      },
-      {
-        "network": "twitter",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "instagram",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -42,7 +32,8 @@
     {
       "name": "Desenvolvimento de Software",
       "keywords": [
-        "Backend"
+        "Backend",
+        "Jogos Digitais"
       ]
     },
     {
@@ -51,9 +42,9 @@
       ]
     },
     {
-      "name": "Data Science",
+      "name": "Estatística",
       "keywords": [
-        "Big Data",
+        "Ciência de Dados",
         "Sistemas de Apoio de Decisão"
       ]
     }
@@ -61,7 +52,7 @@
   "skills": [
     {
       "name": "Linguagens de Programação",
-      "level": "10",
+      "level": "",
       "keywords": [
         "C",
         "Javascript",
@@ -89,7 +80,7 @@
       "courses": [
         "Sistemas Digitais",
         "Instrumentação Industrial",
-        "Análise de Circuitos de Corrente Contínua"
+        "Análise de Circuitos de Corrente Contínua e Corrente Alternada"
       ]
     },
     {
@@ -100,9 +91,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Introdução em Sistemas de Informação",
-        "Programação",
-        "Introdução ao computador"
+        "Matemática Discreta",
+        "Programação I e II",
+        "Introdução em Sistemas de Informação"
       ]
     }
   ],
@@ -130,20 +121,6 @@
         "Procurar e reportar bugs e sugestões",
         "Auxiliar clientes com problemas de informática que estejam afetando a utilização do software (Problemas no SO, internet, hardware, etc...)"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-    }
-  ],
-  "awards": [
-    {
-    },
-    {
-    }
-  ],
-  "references": [
-    {
     }
   ]
 }

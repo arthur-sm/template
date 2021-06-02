@@ -1,45 +1,44 @@
 ---
 layout: project
 type: project
-draft: true #Mantendo eles como rascunhos por enquanto, posso usar como base depois
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+draft: false 
+image: images/fakenews_pexels_connor_danylenko.jpg
+title: Gazeta Robótica
+permalink: projects/gazetarobot
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-11-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Projeto Próprio
+  - Raspagem Web
+  - Python
+summary: Robô que analisa notícias reais para gerar falsas, um projeto pessoal.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/fakenews_pexels_connor_danylenko.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+<h1>O Projeto</h1>
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
-Here is some code that illustrates how we read values from the line sensors:
+A Gazeta Robótica começou com a vontade de parodiar a "realidade surreal" em que vivemos, pegando notícias reais e gerando combinações aleatórias para tentar simular manchetes aparentemente nonsense e/ou cómicas, como *"Aluno leva choque na UFPE e colegas aplaudem pensando ser performance"*, *"Funcionária de tribunal usou dinheiro público para comprar terno para cachorro"* e *"Deitado em rede, advogado participa de sessão de julgamento do TJ da Bahia"*.
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+O bot 'raspa' notícias de perfis de grandes portais no twitter para alimentar uma corrente de Markov, uma estrutura que quantifica padrões para tornar as sentenças geradas mais semelhantes ao que foi absorvido, e então cria frases juntando partes aleatórias das notícias. Além disso, esse script pode criar sentenças dentro de um tópico específico ou censurar palavras desejadas pelo usuário.
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+<h1>Componentes</h1>
 
+* Re - Formatar e remover conteudo indesejável das frases coletadas
+* Pandas - Armazenamento e manipulação de dados
+* Tweepy - Realizar chamadas para a API do Twitter
+* Markovify - Geração da Corrente de Markov e das notícias falsas
+
+<h1>Outros</h1>
+
+Para mais detalhes sobre esse projeto, acesse a [pagina no Github](https://github.com/arthur-sm/Gazeta-Robotica) ou o artigo ["Usando Corrente de Markov para gerar Notícias Falsas"](https://www.in-senso.com.br/2020/12/gr-devlog1.html).
+
+Vai aqui um diagrama que procura explicar o funcionamento do script:
+
+![Diagrama do script](../images/diagrame_gazeta_robot.png)
+Alt: [Fluxograma que explica o funcionamento geral do script](url)
 
 
