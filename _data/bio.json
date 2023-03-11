@@ -132,10 +132,10 @@
       "website": "https://databasers.com.br/",
       "startDate": "2021-09-20",
       "endDate": "Present",
-      "summary": "Monitorar os ambientes de SQL Server dos clientes, atender solicitações e melhorar/corrigir procedimentos internos",
+      "summary": "Monitorar os ambientes de SQL Server dos clientes e realizar melhoras nas ferramentas internas",
       "highlights": [
         "Monitorar a utilização de espaço, performance, segurança e outros aspectos de um ambiente SQL Server",
-        "Atender solicitações dos clientes (geralmente criaçaõ de usuários, alteração de valores ou exclusão de registros)",
+        "Atender solicitações dos clientes (Criação de usuários, alteração de valores, exclusão de registros, etc...)",
         "Melhorar, corrigir e documentar as ferramentas e protocolos internos da empresa"
       ]
     }
