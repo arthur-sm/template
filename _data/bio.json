@@ -7,11 +7,11 @@
     "email": "arthursm40@gmail.com",
     "phone": "",
     "website": "https://arthur-sm.github.io",
-    "summary": "Técnico em Automação Industrial, estudante de Sistemas de Informação e provavelmente outras coisas também.",
+    "summary": "Estudante de Sistemas de Informação, estagiário atuando como DBA e provavelmente outras coisas também.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Linhares",
+      "city": "Vitória",
       "countryCode": "BRA",
       "region": "Espírito Santo"
     },
@@ -37,15 +37,18 @@
       ]
     },
     {
-      "name": "Sistemas Operacionais",
+      "name": "Ciência de Dados",
       "keywords": [
+        "Estatística",
+        "Jornalismo"
       ]
     },
     {
-      "name": "Estatística",
+      "name": "Bancos de Dados",
       "keywords": [
-        "Ciência de Dados",
-        "Sistemas de Apoio de Decisão"
+        "SQL Server",
+        "PostgreSQL",
+        "Monitoramento"
       ]
     }
   ],
@@ -54,9 +57,11 @@
       "name": "Linguagens de Programação",
       "level": "",
       "keywords": [
-        "C",
+        "Python",
+        "Java",
         "Javascript",
-        "Python"
+        "T-SQL",
+        "C"
       ]
     },
     {
@@ -64,7 +69,6 @@
       "level": "",
       "keywords": [
         "Git/GitHub",
-        "VisualStudio",
         "LibreOffice"
       ]
     }
@@ -91,9 +95,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
-        "Matemática Discreta",
-        "Programação I e II",
-        "Introdução em Sistemas de Informação"
+        "Técnicas de Programação Avançada",
+        "Probabilidade e Estatística",
+        "Sistemas Operacionais I"
       ]
     }
   ],
@@ -111,7 +115,7 @@
     },
     {
       "company": "Configure Software",
-      "position": "Estágio como Técnico de Suporte",
+      "position": "Estagiário - Técnico de Suporte",
       "website": "https://www.configure.com.br/",
       "startDate": "2019-02-11",
       "endDate": "2019-05-15",
@@ -120,6 +124,19 @@
         "Responder dúvidas, auxíliar na configuração e utilização do software",
         "Procurar e reportar bugs e sugestões",
         "Auxiliar clientes com problemas de informática que estejam afetando a utilização do software (Problemas no SO, internet, hardware, etc...)"
+      ]
+    },
+    {
+      "company": "Databasers",
+      "position": "Estagiário - Analista de Dados",
+      "website": "https://databasers.com.br/",
+      "startDate": "2021-09-20",
+      "endDate": "Present",
+      "summary": "Monitorar os ambientes de SQL Server dos clientes, atender solicitações e melhorar/corrigir procedimentos internos",
+      "highlights": [
+        "Monitorar a utilização de espaço, performance, segurança e outros aspectos de um ambiente SQL Server",
+        "Atender solicitações dos clientes (geralmente criaçaõ de usuários, alteração de valores ou exclusão de registros)",
+        "Melhorar, corrigir e documentar as ferramentas e protocolos internos da empresa"
       ]
     }
   ]
